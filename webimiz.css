@@ -1,0 +1,28 @@
+body {
+    background-color: rgb(169, 208, 172);
+    background-image: url('pics/saf.jpg');
+    background-repeat: no-repeat;
+  }
+
+  h1 {
+    color: rgb(196, 196, 231);
+    margin-left: 20px;
+    margin-right: 200px;
+    background-color: black;
+    padding: 2%;
+  }
+
+  #dis {
+
+    background-color: bisque;
+  }
+
+  #ic{
+    background-color: brown;
+  }
+
+
+  img{
+    width: 200px;
+    height: 150px ;
+  }
